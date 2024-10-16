@@ -7,4 +7,4 @@ Also link to original: https://github.com/RectangularObject/UniversalHBE/release
 
 I didn't try copy/rob the original
 
-I use it to loadstring the code:
+I use it to loadstring the code: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/UniversalHBE/refs/heads/main/main.lua"))()```
